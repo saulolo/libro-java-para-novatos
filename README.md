@@ -1,4 +1,4 @@
-# Libro: Java para Novatos
+# Libro: Java para Novatos ☕️
 
 _Libro: Java para novatos_  
 _Autor: A.M. Vozmediano_   
@@ -6,9 +6,24 @@ _Edición: 2017_
 
 <img src="https://github.com/saulolo/libro-java-para-novatos/raw/master/Portada.jpg" width="300px" alt="Portada del libro">
 
-(https://github.com/saulolo/libro-java-para-novatos/raw/master/Portada.jpg)
+## Tabla de Contenidos 📚
 
+- [Comenzando](#Comenzando)
+  - [Pre-requisitos](#Pre-requisitos)
+  - [Instalación](#instalación)
+    - [Requisitos Previos](#requisitos-previos)
+    - [Clonar el Repositorio](#clonar-el-repositorio)
+  - [Despliegue](#despliegue)
+    - [Despliegue Local](#despliegue-local)
+- [Construido con](#construido-con)
+- [Contribuyendo](#contribuyendo)
+  - [¿Dónde obtener ayuda?](#dónde-obtener-ayuda)
+- [Autor](#autor)
+- [Licencia](#licencia)
+- [Expresiones de Gratitud](#expresiones-de-gratitud)
+- [Créditos](#créditos)
 
+...
 
 ## Comenzando 🚀
 
@@ -57,7 +72,7 @@ git clone https://github.com/saulolo/libro-java-para-novatos.git
 
 En esta sección, se proporcionan instrucciones y notas adicionales sobre cómo llevar tu proyecto a un entorno de producción o cómo desplegarlo para su uso.
 
-### Despliegue Local
+### Despliegue Local 🏠
 
 Si deseas ejecutar tu proyecto en tu propio entorno local para pruebas o desarrollo, sigue estos pasos generales:
 
@@ -81,12 +96,31 @@ Este proyecto fue construido utilizando las siguientes herramientas y tecnologí
 
 ## Contribuyendo 🖇️
 
-¡Gracias por tu interés en contribuir a este proyecto! Te animamos a participar y mejorar este proyecto.
+¡Gracias por tu interés en contribuir a este proyecto! Aquí hay algunas reglas y pautas para enviar contribuciones:
+
+### Reglas para Enviar Solicitudes de Extracción (Pull Requests) 🔀
+
+1. Antes de enviar una solicitud de extracción, asegúrate de que tu código esté bien probado y sea compatible con la rama principal.
+
+2. Sigue un estilo de código consistente.
+
+3. Si tu contribución agrega nuevas características, proporciona documentación clara sobre cómo utilizar esas características.
+
+### Informar Problemas 🐞
+
+Si encuentras errores o problemas en el proyecto, por favor, abre un issue para informarnos. Proporciona detalles claros sobre el problema, incluyendo pasos para reproducirlo.
+
+### Comunicación 💬
+
+Nos encanta escuchar tus ideas y responder tus preguntas. Siempre puedes [contactarme](https://www.linkedin.com/in/saul-echeverri-duque/) para discutir el proyecto o plantear cualquier pregunta que tengas.
+
+¡Esperamos que te unas a nuestra comunidad de contribuyentes y esperamos tus valiosas contribuciones!
 
 
-### ¿Dónde obtener ayuda?
 
-Si tienes preguntas o necesitas ayuda durante el proceso de contribución, no dudes en [contactarnos](mailto:tuemail@example.com) o abrir un issue para obtener asistencia.
+### ¿Dónde obtener ayuda? 🆘
+
+Si tienes preguntas o necesitas ayuda durante el proceso de contribución, no dudes en [contactarme](https://www.linkedin.com/in/saul-echeverri-duque/) o abrir un issue para obtener asistencia.
 
 ¡Espero trabajar contigo en este proyecto y agradecemos tu ayuda para mejorarlo!
 
@@ -99,9 +133,12 @@ Si tienes preguntas o necesitas ayuda durante el proceso de contribución, no du
 
 ## Licencia 📄
 
-Este proyecto se basa en el libro "Java para Novatos" de A.M. Vozmediano y se desarrolla con fines educativos y de aprendizaje del lenguaje de Java. La utilización de los ejercicios y contenido del libro se realiza en concordancia con los derechos de uso permitidos por el autor y el editor.
+Este proyecto se basa en el libro "Java para Novatos" de A.M. Vozmediano y se desarrolla con fines educativos y de aprendizaje del lenguaje de Java. La utilización de los ejercicios y contenido del libro se realiza en concordancia con los derechos de uso permitidos por el autor y el editor del libro.
 
-**Nota:** Si deseas utilizar o distribuir el contenido de este proyecto más allá de los fines educativos personales, asegúrate de obtener los permisos necesarios del autor y el editor del libro.
+**Nota Importante**: Este proyecto no se distribuye bajo una licencia de código abierto estándar, ya que está destinado principalmente para fines personales y educativos. Si deseas utilizar o distribuir el contenido de este proyecto más allá de los fines educativos personales, asegúrate de obtener los permisos necesarios del autor y el editor del libro.
+
+Es importante respetar los derechos de autor y las restricciones legales asociadas con el contenido del libro en el que se basa este proyecto.
+
 
 ## Expresiones de Gratitud 🎁
 
@@ -122,12 +159,14 @@ Si encuentras este proyecto útil y te gustaría expresar tu gratitud de alguna 
 
 
 ---
-## Créditos
+## Créditos 📜
 
-Este proyecto fue desarrollado con ❤️ por [Saul Echeverri ](https://github.com/saulolo) 😊.
+Este proyecto fue desarrollado con ❤️ por [Saul Echeverri](https://github.com/saulolo) 😊.
 
 Si tienes preguntas, comentarios o sugerencias, no dudes en ponerte en contacto conmigo:
 
-- GitHub: [Saul Hernando Echeverri Duque](https://github.com/tuusuario) 🌐 
+- GitHub: [Saul Hernando Echeverri Duque](https://github.com/tuusuario) 🌐
 - Correo Electrónico: saulolo@gmail.com 📧
+- LinkedIn: [Saul Echeverri](https://www.linkedin.com/in/saul-echeverri-duque/) 💼
+
 
