@@ -4,7 +4,9 @@ _Libro: Java para novatos_
 _Autor: A.M. Vozmediano_   
 _Edición: 2017_
 
-![Portada del libro](https://github.com/saulolo/libro-java-para-novatos/raw/master/Portada.jpg)
+<img src="https://github.com/saulolo/libro-java-para-novatos/raw/master/Portada.jpg" width="300px" alt="Portada del libro">
+
+(https://github.com/saulolo/libro-java-para-novatos/raw/master/Portada.jpg)
 
 
 
