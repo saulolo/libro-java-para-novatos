@@ -4,6 +4,9 @@ _Libro: Java para novatos_
 _Autor: A.M. Vozmediano_   
 _Edición: 2017_
 
+![Portada del libro](https://github.com/saulolo/libro-java-para-novatos/raw/master/Portada.jpg)
+
+
 
 ## Comenzando 🚀
 
