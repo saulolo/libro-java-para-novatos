@@ -8,8 +8,8 @@ _Edición: 2017_
 
 ## Tabla de Contenidos 📚
 
-- [Comenzando](#Comenzando)
-  - [Pre-requisitos](#Pre-requisitos)
+- [Comenzando](#comenzando)
+  - [Pre-requisitos](#pre-requisitos)
   - [Instalación](#instalación)
     - [Requisitos Previos](#requisitos-previos)
     - [Clonar el Repositorio](#clonar-el-repositorio)
@@ -17,11 +17,15 @@ _Edición: 2017_
     - [Despliegue Local](#despliegue-local)
 - [Construido con](#construido-con)
 - [Contribuyendo](#contribuyendo)
+  - [Reglas para Enviar Solicitudes de Extracción (Pull Requests)](#reglas-para-enviar-solicitudes-de-extracción-pull-requests-)
+  - [Informar Problemas](#informar-problemas)
+  - [Comunicación](#comunicación)
   - [¿Dónde obtener ayuda?](#dónde-obtener-ayuda)
 - [Autor](#autor)
 - [Licencia](#licencia)
 - [Expresiones de Gratitud](#expresiones-de-gratitud)
 - [Créditos](#créditos)
+
 
 ...
 
@@ -29,7 +33,7 @@ _Edición: 2017_
 
 _Seguimiento y ejecución de los ejercicios del libro Java para Novatos del autor Alfredo Moreno Vozmediano_
 
-Este repositorio es de carácter **Educativo** con fines de estudio sobre la iniciación del aprendisaje dele lenguaje de **Java**.
+Este repositorio es de carácter **Educativo** con fines de estudio sobre la iniciación del aprendizaje del lenguaje de **Java**.
 
 
 ### Pre-requisitos 📋
@@ -93,7 +97,6 @@ Este proyecto fue construido utilizando las siguientes herramientas y tecnologí
 
 * **Maven**: Gestor de dependencias que se utilizó para administrar las bibliotecas y las dependencias del proyecto. Puedes encontrar más información sobre Maven en [https://maven.apache.org/](https://maven.apache.org/).
 
-
 ## Contribuyendo 🖇️
 
 ¡Gracias por tu interés en contribuir a este proyecto! Aquí hay algunas reglas y pautas para enviar contribuciones:
@@ -112,7 +115,7 @@ Si encuentras errores o problemas en el proyecto, por favor, abre un issue para 
 
 ### Comunicación 💬
 
-Nos encanta escuchar tus ideas y responder tus preguntas. Siempre puedes [contactarme](https://www.linkedin.com/in/saul-echeverri-duque/) para discutir el proyecto o plantear cualquier pregunta que tengas.
+Me encanta escuchar tus ideas y responder tus preguntas. Siempre puedes [contactarme](https://www.linkedin.com/in/saul-echeverri-duque/) para discutir el proyecto o plantear cualquier pregunta que tengas.
 
 ¡Esperamos que te unas a nuestra comunidad de contribuyentes y esperamos tus valiosas contribuciones!
 
@@ -128,7 +131,28 @@ Si tienes preguntas o necesitas ayuda durante el proceso de contribución, no du
 
 ## Autor ✒️
 
-* **Saul Echeverri** - *Desarrollo inicial* - [saulolo](https://github.com/saulolo)
+¡Hola! Soy Saul Echeverri Duque 👨‍💻 , el creador y desarrollador de este proyecto. Permíteme compartir un poco sobre mi formación y experiencia:
+
+### Formación Académica 📚
+
+- 🎓 Graduado en Ingeniería de Alimentos por la Universidad de Antioquia, Colombia.
+- 📖 Titulado en Tecnología en Análisis y Desarrollo de Software por el SENA.
+
+### Trayectoria Profesional 💼
+
+- 👨‍💻 Cuento con más de un año de experiencia laboral en el campo del desarrollo de software.
+- 🌟 Durante mi trayectoria, he tenido el privilegio de trabajar en diversos proyectos tecnológicos, donde he aplicado mis conocimientos en programación y análisis.
+- 🏢 Actualmente, formo parte de [Cidenet](https://cidenet.com.co/), una empresa de software en Medellín, Colombia, donde sigo creciendo profesionalmente y contribuyendo al mundo de la tecnología.
+
+### Pasión por la Programación 🚀
+
+- 💻 Mi viaje en el mundo de la programación comenzó en el 2021, y desde entonces, he estado inmerso en el emocionante universo del desarrollo de software.
+- 📚 Uno de mis mayores intereses y áreas de enfoque es Java, y este proyecto es el resultado de mi deseo de compartir conocimientos y experiencias relacionadas con este lenguaje.
+- 🤝 Estoy emocionado de colaborar y aprender junto a otros entusiastas de Java.
+
+Estoy agradecido por la oportunidad de compartir este proyecto contigo y espero que te sea útil en tu propio camino de aprendizaje y desarrollo. Si tienes alguna pregunta, sugerencia o simplemente quieres charlar sobre tecnología, no dudes en ponerte en contacto conmigo. ¡Disfruta explorando el mundo de Java!
+
+¡Gracias por ser parte de este proyecto! 😊
 
 
 ## Licencia 📄
