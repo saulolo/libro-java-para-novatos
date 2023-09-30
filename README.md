@@ -1,6 +1,5 @@
 # Libro: Java para Novatos ☕️
 
-_Libro: Java para novatos_  
 _Autor: A.M. Vozmediano_   
 _Edición: 2017_
 
@@ -31,7 +30,7 @@ _Edición: 2017_
 
 ## Comenzando 🚀
 
-_Seguimiento y ejecución de los ejercicios del libro Java para Novatos del autor Alfredo Moreno Vozmediano_
+_Seguimiento y ejecución de los ejercicios del libro **Java para Novatos** del autor Alfredo Moreno Vozmediano_
 
 Este repositorio es de carácter **Educativo** con fines de estudio sobre la iniciación del aprendizaje del lenguaje de **Java**.
 
