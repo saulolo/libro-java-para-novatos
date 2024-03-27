@@ -1,4 +1,4 @@
-package edu.LibroJavaParaNovatos.librojavaparanovatos.uni3_EstructurasDeControlYCalidadSoft.ejercicio3_1;
+package edu.LibroJavaParaNovatos.librojavaparanovatos.uni3_EstructurasDeControlYCalidadSoft.Ejercicio3_1_PositivoYNegativo;
 
 
 import javax.swing.*;
@@ -24,7 +24,7 @@ public class PositivoYNegativoPrueba {
 
         positivoYNegativo.comprobarPositivoNegativo(numero);
 
-
+        input.close();
     }
 
 }

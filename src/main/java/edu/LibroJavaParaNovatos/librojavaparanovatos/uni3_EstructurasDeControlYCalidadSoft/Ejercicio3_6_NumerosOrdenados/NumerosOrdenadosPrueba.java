@@ -1,4 +1,4 @@
-package edu.LibroJavaParaNovatos.librojavaparanovatos.uni3_EstructurasDeControlYCalidadSoft.ejercicio3_6;
+package edu.LibroJavaParaNovatos.librojavaparanovatos.uni3_EstructurasDeControlYCalidadSoft.Ejercicio3_6_NumerosOrdenados;
 
 import javax.swing.*;
 import java.util.Scanner;
@@ -31,5 +31,8 @@ public class NumerosOrdenadosPrueba {
 
         if (miPrimerNum.sonConsecutivos()) System.out.println("Los números son consecutivos.");
         else  System.out.println("Los números NO son consecutivos.");
+
+        input.close();
     }
+
 }

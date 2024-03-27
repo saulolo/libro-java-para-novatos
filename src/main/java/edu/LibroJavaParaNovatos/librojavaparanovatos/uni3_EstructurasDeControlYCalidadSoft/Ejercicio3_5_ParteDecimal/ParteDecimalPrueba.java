@@ -1,4 +1,4 @@
-package edu.LibroJavaParaNovatos.librojavaparanovatos.uni3_EstructurasDeControlYCalidadSoft.ejercicio3_5;
+package edu.LibroJavaParaNovatos.librojavaparanovatos.uni3_EstructurasDeControlYCalidadSoft.Ejercicio3_5_ParteDecimal;
 
 import javax.swing.*;
 import java.util.Scanner;
@@ -22,7 +22,7 @@ public class ParteDecimalPrueba {
 
         System.out.println(parteDecimal.calcularParteDecimal(num));
 
-
+        input.close();
     }
 
 }

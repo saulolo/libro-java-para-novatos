@@ -1,4 +1,4 @@
-package edu.LibroJavaParaNovatos.librojavaparanovatos.uni3_EstructurasDeControlYCalidadSoft.ejercicio3_2;
+package edu.LibroJavaParaNovatos.librojavaparanovatos.uni3_EstructurasDeControlYCalidadSoft.Ejercicio3_2_RaizCuadrada;
 
 /**
  * Calcular la raíz cuadrada de un número introducido por teclado. Hay que tener la precaución de comprobar

@@ -1,4 +1,4 @@
-package edu.LibroJavaParaNovatos.librojavaparanovatos.uni3_EstructurasDeControlYCalidadSoft.ejercicio3_4;
+package edu.LibroJavaParaNovatos.librojavaparanovatos.uni3_EstructurasDeControlYCalidadSoft.Ejercicio3_4_AnioBisiesto;
 
 import javax.swing.*;
 import java.util.Scanner;
@@ -22,6 +22,7 @@ public class AnioBisiestoPrueba {
 
         System.out.println(anioBisiesto.calcularAnioBisiesto(ano));
 
+        input.close();
     }
 
 }

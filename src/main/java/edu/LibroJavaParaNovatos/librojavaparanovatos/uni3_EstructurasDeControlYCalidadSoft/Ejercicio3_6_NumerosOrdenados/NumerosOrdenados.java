@@ -1,4 +1,4 @@
-package edu.LibroJavaParaNovatos.librojavaparanovatos.uni3_EstructurasDeControlYCalidadSoft.ejercicio3_6;
+package edu.LibroJavaParaNovatos.librojavaparanovatos.uni3_EstructurasDeControlYCalidadSoft.Ejercicio3_6_NumerosOrdenados;
 
 /**
  * Leer tres números por teclado, X, Y y Z, y decidir si están ordenados de menor a mayor. Complétalo con

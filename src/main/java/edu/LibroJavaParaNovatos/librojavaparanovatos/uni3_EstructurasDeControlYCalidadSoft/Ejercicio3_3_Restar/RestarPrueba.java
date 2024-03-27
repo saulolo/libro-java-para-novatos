@@ -1,4 +1,4 @@
-package edu.LibroJavaParaNovatos.librojavaparanovatos.uni3_EstructurasDeControlYCalidadSoft.ejercicio3_3;
+package edu.LibroJavaParaNovatos.librojavaparanovatos.uni3_EstructurasDeControlYCalidadSoft.Ejercicio3_3_Restar;
 
 import javax.swing.*;
 import java.util.Scanner;
@@ -27,6 +27,7 @@ public class RestarPrueba {
         System.out.println("La operación de restar el número mayor menos el número menor, es: " +
                 restar.calcularResta(num1, num2));
 
+        input.close();
     }
 
 }

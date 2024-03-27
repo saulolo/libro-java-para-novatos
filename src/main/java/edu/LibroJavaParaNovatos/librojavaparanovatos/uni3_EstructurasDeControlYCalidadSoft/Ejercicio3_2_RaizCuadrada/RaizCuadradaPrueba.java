@@ -1,4 +1,4 @@
-package edu.LibroJavaParaNovatos.librojavaparanovatos.uni3_EstructurasDeControlYCalidadSoft.ejercicio3_2;
+package edu.LibroJavaParaNovatos.librojavaparanovatos.uni3_EstructurasDeControlYCalidadSoft.Ejercicio3_2_RaizCuadrada;
 
 
 import javax.swing.*;
@@ -23,7 +23,7 @@ public class RaizCuadradaPrueba {
 
         System.out.println(raizCuadrada.calcularRaizCuadrada(numero));
 
-
+        input.close();
     }
 
 }
